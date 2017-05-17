@@ -1,1 +1,3 @@
-# gaad17-dojo
+# Tema Clean Blog 
+
+Tema utilizado no Dojo do GAAD2017 
